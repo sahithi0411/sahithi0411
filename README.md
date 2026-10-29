@@ -1,180 +1,233 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,30:4B0082,65:9D00FF,100:00D9FF&text=SAHITHI%20JONNADULA&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20IN%20THE%20MAKING&descSize=13&descAlignY=57&animation=twinkling&stroke=9D00FF&strokeWidth=1" alt="Neon galaxy banner"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=650&height=55&lines=Turning+ideas+into+web+experiences;Building+with+React+%26+Django;Learning%2C+building%2C+improving+every+day;Future+Full+Stack+Developer+%E2%9C%A8" alt="Animated developer introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:02140B,35:064E3B,70:059669,100:34D399&text=SAHITHI%20JONNADULA&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=58&animation=twinkling" alt="Green neon developer banner"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=4ADE80&center=true&vCenter=true&width=650&height=55&lines=Building+ideas+into+web+applications;React.js+%7C+Python+%7C+Django;Learning+something+new+every+day;Code.+Create.+Improve.+Repeat." alt="Animated typing introduction"/>
+
+<br/><br/>
+
 <a href="https://github.com/sahithi0411">
-  <img src="https://img.shields.io/badge/GitHub-090014?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Visit_Profile-166534?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/sahithi-jonnadula-33114a293/">
-  <img src="https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/sahithi0411?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-090014?style=for-the-badge&logo=github&logoColor=F472B6" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-047857?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile"/>
 </a>
 
 <br/><br/>
 
-CREATIVE MIND   ✦   CODE WITH PURPOSE   ✦   ALWAYS EVOLVING
+`CREATIVE THINKING` &nbsp; ✦ &nbsp; `CLEAN CODE` &nbsp; ✦ &nbsp; `CONTINUOUS LEARNING`
 
 </div>
 
-01 —   A LITTLE ABOUT ME
+---
 
-<img align="right" width="120" src="https://skillicons.dev/icons?i=react,python&theme=dark" alt="React and Python"/>
+## 🌿 About Me
 
-Hey there! 👋 I'm Sahithi, a Computer Science graduate specializing in AI & Data Science, passionate about building useful and engaging web applications.
+<img align="right" width="115" src="https://skillicons.dev/icons?i=react,python&theme=dark" alt="React and Python"/>
 
-💜 Interested in frontend and full-stack development.
+Hi! I'm **Sahithi Jonnadula**, a Computer Science graduate specializing in Artificial Intelligence and Data Science. I'm passionate about creating useful, responsive, and engaging web applications.
 
-⚡ Building interactive interfaces with React.js.
-
-🐍 Developing backend APIs using Python and Django REST Framework.
-
-🗄️ Working with SQLite and JWT authentication.
-
-🌱 Constantly improving my coding and problem-solving skills.
-
-🎯 Goal: Grow into a confident full-stack software developer.
+- 💚 Interested in frontend and full-stack development.
+- ⚛️ Building interactive interfaces using React.js.
+- 🐍 Developing backend APIs with Python and Django REST Framework.
+- 🗄️ Working with SQLite and JWT authentication.
+- 🌱 Improving my development and problem-solving skills.
+- 🎯 Aspiring to become a skilled Full Stack Developer.
 
 <br clear="right"/>
 
-02 —   MY TECH UNIVERSE
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-◈ FRONTEND
+### 🌱 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" alt="HTML CSS JavaScript React"/>
 
-◈ BACKEND & DATABASE
+### 🌿 Backend & Database
 
 <img src="https://skillicons.dev/icons?i=python,django,sqlite&theme=dark&perline=3" alt="Python Django SQLite"/>
 
-◈ TOOLS & WORKFLOW
+### 🍃 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" alt="Git GitHub VS Code Postman"/>
 
 </div>
 
-03 —   SELECTED PROJECTS
+---
+
+## 💻 Featured Projects
 
 <div align="center">
 
-<sub>THREE PROJECTS · THREE DIFFERENT CHALLENGES · ONE GROWING JOURNEY</sub>
+<sub>THREE PROJECTS · ONE JOURNEY OF BUILDING AND LEARNING</sub>
 
 </div>
 
-<img src="https://img.shields.io/badge/01-TRAVEL--TRIP-9D4EDD?style=flat-square&labelColor=18052B" alt="Travel-Trip"/>   Travel-Trip
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:5B21B6,50:A855F7,100:E879F9" alt="Purple project accent"/>
-</div>
-
-Full-Stack Travel Planning Application
-
-A travel planning application built to organize destinations, trips, and itinerary details. The backend uses Django REST Framework, SQLite, and JWT-based authentication.
-
-REACT.JS   DJANGO REST FRAMEWORK   SQLITE   JWT
-
-<div align="left">
-
-<a href="https://github.com/sahithi0411/Travel-Trip-Full-Stack">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="Travel-Trip source code"/>
-</a>
-
-</div>
-
-<img src="https://img.shields.io/badge/02-WATCH%20STORE-EC4899?style=flat-square&labelColor=3B071F" alt="Watch Store"/>   Watch Store
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:BE185D,50:EC4899,100:F9A8D4" alt="Pink project accent"/>
-</div>
-
-E-commerce Web Application
-
-A React-based watch shopping application using React Router for navigation and local storage to maintain client-side data.
-
-REACT.JS   REACT ROUTER   LOCAL STORAGE
-
-<div align="left">
-
-<a href="https://watch-store-project-brown.vercel.app/login">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Watch Store live demo"/>
-</a>
-<a href="https://github.com/sahithi0411/watch-store-project">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-831843?style=for-the-badge&logo=github&logoColor=white" alt="Watch Store source code"/>
-</a>
-
-</div>
-
-<img src="https://img.shields.io/badge/03-BMW%20SHOWCASE-38BDF8?style=flat-square&labelColor=082F49" alt="BMW Car Showcase"/>   BMW Car Showcase
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0369A1,50:38BDF8,100:67E8F9" alt="Blue project accent"/>
-</div>
-
-Automotive Showcase Website
-
-A responsive automotive website featuring BMW models, vehicle information, and search and filtering functionality by model and color.
-
-HTML   CSS   JAVASCRIPT
-
-<div align="left">
-
-<a href="https://bmw-project-ppik.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-38BDF8?style=for-the-badge&logo=vercel&logoColor=082F49" alt="BMW live demo"/>
-</a>
-<a href="https://github.com/sahithi0411/bmw-project">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-075985?style=for-the-badge&logo=github&logoColor=white" alt="BMW source code"/>
-</a>
-
-</div>
-
-04 —   EDUCATION
+<table>
+<tr>
+<td width="33%" valign="top">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:1E103D,50:4C1D95,100:164E63&text=B.TECH%20%7C%20CSE%20%E2%80%93%20AI%20%26%20DS&fontSize=22&fontColor=FFFFFF&fontAlignY=40&desc=St.%20Mary's%20Group%20of%20Institutions%20for%20Women%2C%20Guntur&descSize=11&descAlignY=70" alt="Education banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:052E16,100:16A34A&text=TRAVEL-TRIP&fontSize=23&fontColor=FFFFFF" width="100%" alt="Travel-Trip green banner"/>
 
-Bachelor of Technology · 2026
+### ✈️ Travel-Trip
 
-Computer Science and Engineering — Artificial Intelligence & Data Science
-
-</div>
-
-05 —   CURRENTLY EVOLVING
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-REACT.JS-C084FC?style=for-the-badge&labelColor=16082D" alt="React learning"/>
-<img src="https://img.shields.io/badge/02-DJANGO%20REST%20APIs-22D3EE?style=for-the-badge&labelColor=082F49" alt="Django REST APIs"/>
-<img src="https://img.shields.io/badge/03-PYTHON%20%26%20DSA-F472B6?style=for-the-badge&labelColor=500724" alt="Python and DSA"/>
-<img src="https://img.shields.io/badge/04-FULL%20STACK%20DEVELOPMENT-A78BFA?style=for-the-badge&labelColor=2E1065" alt="Full stack development"/>
-
-<br/><br/>
-
-Every project is a new opportunity to learn something better.
+**Full-Stack Travel Planning App**
 
 </div>
 
-06 —   LET'S CONNECT
+An application for organizing destinations, trips, and itinerary details with secure authentication.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/React.js-166534?style=flat-square" alt="React.js"/> <img src="https://img.shields.io/badge/Django_REST-15803D?style=flat-square" alt="Django REST"/> <img src="https://img.shields.io/badge/SQLite-166534?style=flat-square" alt="SQLite"/> <img src="https://img.shields.io/badge/JWT-15803D?style=flat-square" alt="JWT"/>
 
 <div align="center">
-
-Have an opportunity, a project idea, or feedback to share? I'd love to connect!
 
 <br/>
 
-<a href="https://github.com/sahithi0411">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<a href="https://github.com/sahithi0411/Travel-Trip-Full-Stack">
+<img src="https://img.shields.io/badge/GitHub-View_Code-166534?style=for-the-badge&logo=github&logoColor=white" alt="Travel-Trip source code"/>
 </a>
 
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:064E3B,100:10B981&text=WATCH%20STORE&fontSize=22&fontColor=FFFFFF" width="100%" alt="Watch Store green banner"/>
+
+### ⌚ Watch Store
+
+**E-commerce Web Application**
+
+</div>
+
+A React-based shopping website with page navigation and local storage for client-side data.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/React.js-166534?style=flat-square" alt="React.js"/> <img src="https://img.shields.io/badge/React_Router-15803D?style=flat-square" alt="React Router"/> <img src="https://img.shields.io/badge/Local_Storage-166534?style=flat-square" alt="Local Storage"/>
+
+<div align="center">
+
+<br/>
+
+<a href="https://watch-store-project-brown.vercel.app/login">
+<img src="https://img.shields.io/badge/Live_Demo-15803D?style=for-the-badge&logo=vercel&logoColor=white" alt="Watch Store live demo"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sahithi0411/watch-store-project">
+<img src="https://img.shields.io/badge/GitHub-View_Code-166534?style=for-the-badge&logo=github&logoColor=white" alt="Watch Store source code"/>
+</a>
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:14532D,100:4ADE80&text=BMW%20SHOWCASE&fontSize=21&fontColor=FFFFFF" width="100%" alt="BMW showcase green banner"/>
+
+### 🚘 BMW Showcase
+
+**Automotive Website**
+
+</div>
+
+A responsive car showcase featuring BMW models, vehicle details, and search and filtering by model and color.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML-166534?style=flat-square" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-15803D?style=flat-square" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-166534?style=flat-square" alt="JavaScript"/>
+
+<div align="center">
+
+<br/>
+
+<a href="https://bmw-project-ppik.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-15803D?style=for-the-badge&logo=vercel&logoColor=white" alt="BMW live demo"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sahithi0411/bmw-project">
+<img src="https://img.shields.io/badge/GitHub-View_Code-166534?style=for-the-badge&logo=github&logoColor=white" alt="BMW source code"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:052E16,50:166534,100:10B981&text=B.TECH%20%E2%80%94%20CSE%20(AI%20%26%20DS)&fontSize=22&fontColor=FFFFFF&desc=2026%20Graduate&descSize=13&descAlignY=75" width="100%" alt="Education banner"/>
+
+**St. Mary's Group of Institutions for Women, Guntur**
+
+Bachelor of Technology in Computer Science and Engineering — Artificial Intelligence & Data Science
+
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-22C55E?style=for-the-badge&logo=react&logoColor=052E16" alt="React.js"/>
+<img src="https://img.shields.io/badge/Django_REST_API-16A34A?style=for-the-badge&logo=django&logoColor=white" alt="Django REST API"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-15803D?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Problem_Solving-166534?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem solving"/>
+
+<br/><br/>
+
+*Small improvements every day lead to big results.* 🌱
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+Let's connect, share ideas, and grow together as developers!
+
+<br/><br/>
+
+<a href="https://github.com/sahithi0411">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-166534?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>
+
+<br/><br/><br/>
+
 <a href="https://www.linkedin.com/in/sahithi-jonnadula-33114a293/">
-  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-047857?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
@@ -183,10 +236,12 @@ Have an opportunity, a project idea, or feedback to share? I'd love to connect!
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:00D9FF,35:7C3AED,70:9D174D,100:090014&animation=twinkling" alt="Animated neon footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:34D399,35:059669,70:064E3B,100:02140B&animation=twinkling" alt="Green animated footer"/>
 
-DREAM   ✦   BUILD   ✦   LEARN   ✦   REPEAT
+### 💚 DREAM · BUILD · LEARN · REPEAT
 
-<sub>Thanks for visiting my corner of GitHub 💜</sub>
+<sub>Thanks for visiting my profile. Keep growing, keep creating! 🌿</sub>
 
 </div>
+
+<!-- ═══════════════════════ END OF README ═══════════════════════ -->
