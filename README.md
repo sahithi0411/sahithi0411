@@ -4,16 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Sahithi+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;React.js+%2B+Django+REST+Framework;Turning+ideas+into+working+web+apps" alt="Typing animation" />
 
-</div>
+<br><br>
 
-<!--
-OPTIONAL AVATAR: upload your own image to this repo as assets/avatar.png,
-then remove this comment wrapper to show it.
+<img src="./assets/avatar.svg" width="320" alt="Anime girl programmer avatar with headphones and laptop" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahithi0411/sahithi0411/main/assets/avatar.png" width="220" alt="Sahithi avatar" />
 </div>
--->
 
 <br>
 
