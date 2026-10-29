@@ -1,8 +1,6 @@
-<!-- 🌌 SAHITHI JONNADULA | ANIMATED GALAXY PROFILE -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05051A,20:180C3A,45:57218A,70:C34DCE,100:FF8FCF&height=220&section=header&text=Sahithi%20Jonnadula&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descSize=19&descAlignY=60" alt="Animated galaxy banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05051A,20:180C3A,45:57218A,70:C34DCE,100:FF8FCF&height=220&section=header&text=Sahithi%20Jonnadula&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descSize=19&descAlignY=60" alt="Galaxy banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&duration=2000&pause=500&color=E7A5FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Sahithi+%F0%9F%92%9C;Welcome+to+my+Galaxy+%F0%9F%8C%8C;React.js+%E2%9C%A6+Python+%E2%9C%A6+Django;Dream+%E2%9C%A6+Code+%E2%9C%A6+Create+%F0%9F%9A%80" alt="Animated introduction"/>
 
@@ -22,37 +20,26 @@
 
 </div>
 
-<table>
-<tr>
-<td width="42%" valign="top">
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="170" alt="Animated developer avatar"/>
-
 ### 💜 A Little About Me
-
-</div>
 
 Hello! I'm **Sahithi Jonnadula**, a Computer Science and Engineering graduate specializing in Artificial Intelligence and Data Science.
 
 - 🚀 Aspiring Full Stack Developer
 - 🌐 Passionate about web development
 - 💻 Building interactive web applications
-- 🔌 Exploring backend development and REST APIs
+- ⚙️ Exploring backend development and REST APIs
 - 📚 Always learning and improving
 - 🎨 Drawing and travelling are my hobbies
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=18&duration=2500&pause=500&color=C084FC&center=true&vCenter=true&width=340&lines=Small+Steps+%E2%86%92+Big+Dreams+%E2%99%A1;Keep+Learning+%E2%9C%A8+Keep+Growing" alt="Animated motivation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=18&duration=2500&pause=500&color=C084FC&center=true&vCenter=true&width=500&lines=Small+Steps+%E2%86%92+Big+Dreams+%E2%99%A1;Keep+Learning+%E2%9C%A8+Keep+Growing" alt="Animated motivation"/>
+
 </div>
 
-</td>
-<td width="58%" valign="top">
+---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Animated programmer avatar"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2300&pause=500&color=61C8FF&center=true&vCenter=true&width=450&lines=%E2%9C%A8+My+Tech+Universe+%E2%9C%A8;Exploring+One+Technology+At+A+Time" alt="Animated skills heading"/>
 
@@ -62,7 +49,7 @@ Hello! I'm **Sahithi Jonnadula**, a Computer Science and Engineering graduate sp
 
 ### ⚙️ Backend Planet
 
-<img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python and Django"/>
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python Django"/>
 
 ### 🗄️ Database & Developer Tools
 
@@ -72,10 +59,6 @@ Hello! I'm **Sahithi Jonnadula**, a Computer Science and Engineering graduate sp
 <img src="https://img.shields.io/badge/JWT-FF79C6?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -90,8 +73,6 @@ Hello! I'm **Sahithi Jonnadula**, a Computer Science and Engineering graduate sp
 <td width="33%" valign="top">
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="130" alt="Animated travel and exploration avatar"/>
 
 ### 🌍 Travel-Trip
 
@@ -116,7 +97,7 @@ A travel planning application for exploring destinations, managing trips, and or
 
 <div align="center">
 
-<a href="https://github.com/sahithi0411/Travel-Trip-Full-Stack"><img src="https://img.shields.io/badge/🌌_Source_Code-8B5CF6?style=for-the-badge" alt="Travel-Trip source code"/></a>
+<a href="https://github.com/sahithi0411/Travel-Trip-Full-Stack"><img src="https://img.shields.io/badge/Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Travel-Trip source code"/></a>
 
 </div>
 
@@ -124,8 +105,6 @@ A travel planning application for exploring destinations, managing trips, and or
 <td width="33%" valign="top">
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/5wWf7GR2nhgamhRnEuA/giphy.gif" width="130" alt="Animated shopping avatar"/>
 
 ### ⌚ Watch Store
 
@@ -148,9 +127,9 @@ A React-based watch store featuring product browsing and client-side navigation.
 
 <div align="center">
 
-<a href="https://watch-store-project-brown.vercel.app/login"><img src="https://img.shields.io/badge/✨_Live_Demo-00A896?style=for-the-badge" alt="Watch Store live demo"/></a>
+<a href="https://watch-store-project-brown.vercel.app/login"><img src="https://img.shields.io/badge/Live_Demo-00A896?style=for-the-badge" alt="Watch Store live demo"/></a>
 
-<a href="https://github.com/sahithi0411/watch-store-project"><img src="https://img.shields.io/badge/💻_Source_Code-8B5CF6?style=for-the-badge" alt="Watch Store source code"/></a>
+<a href="https://github.com/sahithi0411/watch-store-project"><img src="https://img.shields.io/badge/Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Watch Store source code"/></a>
 
 </div>
 
@@ -158,8 +137,6 @@ A React-based watch store featuring product browsing and client-side navigation.
 <td width="33%" valign="top">
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="130" alt="Animated car and technology avatar"/>
 
 ### 🏎️ BMW Car Showcase
 
@@ -182,9 +159,9 @@ A responsive BMW website showcasing car models with search and filtering functio
 
 <div align="center">
 
-<a href="https://bmw-project-ppik.vercel.app/"><img src="https://img.shields.io/badge/🏁_Live_Demo-00A896?style=for-the-badge" alt="BMW live demo"/></a>
+<a href="https://bmw-project-ppik.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00A896?style=for-the-badge" alt="BMW live demo"/></a>
 
-<a href="https://github.com/sahithi0411/bmw-project"><img src="https://img.shields.io/badge/💻_Source_Code-8B5CF6?style=for-the-badge" alt="BMW source code"/></a>
+<a href="https://github.com/sahithi0411/bmw-project"><img src="https://img.shields.io/badge/Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="BMW source code"/></a>
 
 </div>
 
@@ -213,8 +190,6 @@ A responsive BMW website showcasing car models with search and filtering functio
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=23&duration=2400&pause=600&color=FF8FCF&center=true&vCenter=true&width=500&lines=%F0%9F%8E%93+My+Education;%F0%9F%92%BB+Computer+Science+%26+Engineering" alt="Animated education heading"/>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Animated learning avatar"/>
-
 ### 🎓 Education
 
 **B.Tech — Computer Science and Engineering (AI & Data Science)**
@@ -233,8 +208,6 @@ St. Mary's Group of Institutions for Women, Guntur
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="130" alt="Animated creativity avatar"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2400&pause=600&color=FF8FCF&center=true&vCenter=true&width=400&lines=%F0%9F%8C%B7+Beyond+Coding;%E2%9C%A8+My+Creative+Side" alt="Animated hobbies heading"/>
 
 </div>
@@ -250,28 +223,4 @@ St. Mary's Group of Institutions for Women, Guntur
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="130" alt="Animated collaboration avatar"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2400&pause=600&color=61C8FF&center=true&vCenter=true&width=400&lines=%F0%9F%92%8C+Let's+Connect;%E2%9C%A8+Build+Something+Amazing" alt="Animated contact heading"/>
-
-I'm happy to connect with developers, collaborate on projects, and explore new opportunities.
-
-<a href="https://github.com/sahithi0411"><img src="https://img.shields.io/badge/GitHub-17152D?style=for-the-badge&logo=github&logoColor=DDA0FF" alt="GitHub"/></a>
-
-<a href="https://www.linkedin.com/in/sahithi-jonnadula-33114a293/"><img src="https://img.shields.io/badge/LinkedIn-17152D?style=for-the-badge&logo=linkedin&logoColor=61C8FF" alt="LinkedIn"/></a>
-
-<a href="mailto:sahithijonnadula21@gmail.com"><img src="https://img.shields.io/badge/Email-17152D?style=for-the-badge&logo=gmail&logoColor=FF79C6" alt="Email"/></a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&duration=1800&pause=500&color=FF8FCF&center=true&vCenter=true&width=650&lines=DREAM+%E2%9C%A6+CODE+%E2%9C%A6+BUILD+%E2%9C%A6+GROW;%F0%9F%92%9C+Better+Code%2C+Brighter+Future+%E2%9C%A8;THANKS+FOR+VISITING+MY+GALAXY+%F0%9F%8C%8C" alt="Animated galaxy footer"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FCF,35:8B5CF6,70:30105E,100:05051A&height=140&section=footer&animation=twinkling" alt="Animated galaxy footer banner"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2400&pause=600&color=
