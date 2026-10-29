@@ -1,169 +1,128 @@
- <div align="center">
+ 
+<!-- GALAXY HEADER -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:6D5DFB&height=220&section=header&text=Sahithi%20Jonnadula&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Sahithi Jonnadula galaxy banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:090979,50:4B0082,75:0077B6,100:00E5FF&height=230&section=header&text=SAHITHI%20JONNADULA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Galaxy%20Dreamer&descSize=17&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sahithi+Jonnadula+%F0%9F%91%8B;Building+modern+web+experiences;React.js+%7C+Python+%7C+Django+REST;Turning+ideas+into+working+applications" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Galaxy+%F0%9F%8C%8C;Building+Beautiful+Web+Experiences+%E2%9C%A8;React.js+%7C+Python+%7C+Django;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated typing introduction"/>
 
 <br/>
 
-<a href="https://github.com/sahithi0411"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/sahithi-jonnadula-33114a293/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sahithijonnadula21@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/sahithi0411"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Universe-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sahithi-jonnadula-33114a293/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sahithijonnadula21@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=sahithi0411&style=flat-square&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-## ✦ About Me
-
-```text
-Name       : Sahithi Jonnadula
-Education  : B.Tech — CSE (AI & Data Science)
-Interests  : Frontend & Full Stack Development
-Currently  : Improving my development and problem-solving skills
-Goal       : Build useful products and grow as a software developer
-```
-
-I enjoy turning ideas into responsive, user-friendly web applications. I'm interested in both frontend experiences and backend development, and I keep learning by building practical projects.
-
-- ⚛️ Creating interactive interfaces with **React.js and JavaScript**
-- 🛠️ Developing backend APIs using **Python and Django REST Framework**
-- 🗄️ Working with **SQLite, REST APIs, and JWT authentication**
-- 🌱 Learning through projects, experimentation, and consistent practice
-- 🤝 Open to connecting with developers and exploring software development opportunities
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>✈️ Travel-Trip</h3>
-
-A full-stack travel planning application to explore destinations, organize trips, and manage itineraries.
-
-**Highlights**
-- User registration and JWT authentication
-- Trip and itinerary management
-- Role-based access and destination data
-
-**Built with**
-
-`React.js` `Python` `Django REST` `SQLite` `JWT`
-
-<a href="https://github.com/sahithi0411/Travel-Trip-Full-Stack"><b>⌘ View Source Code →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⌚ Watch Store</h3>
-
-A React-based e-commerce interface for browsing watches with client-side navigation and local storage.
-
-**Highlights**
-- Product browsing experience
-- React Router navigation
-- Local storage integration
-
-**Built with**
-
-`React.js` `JavaScript` `React Router`
-
-<a href="https://watch-store-project-brown.vercel.app/login"><b>↗ Live Demo</b></a> · <a href="https://github.com/sahithi0411/watch-store-project"><b>Source Code →</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🚘 BMW Car Showcase</h3>
-
-A car showcase website presenting BMW models with a clean layout and search functionality.
-
-**Highlights**
-- Car model details
-- Search and color filtering
-- Login and page navigation
-
-**Built with**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://bmw-project-ppik.vercel.app/"><b>↗ Live Demo</b></a> · <a href="https://github.com/sahithi0411/bmw-project"><b>Source Code →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧰 My Developer Toolkit</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,django,sqlite,git,github,vscode&perline=5" alt="HTML, CSS, JavaScript, React, Python, Django, SQLite, Git, GitHub and VS Code"/>
-
-I use these technologies to build, test, and improve my projects as I continue developing my skills.
-
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=sahithi0411&style=for-the-badge&color=6C63FF&label=GALAXY+VISITORS"/>
 
 </div>
 
 ---
 
-## 🛠️ Technologies & Tools
-
+<!-- ABOUT ME -->
 <div align="center">
 
-| Area | Technologies |
-|:--|:--|
-| **Frontend** | HTML5 · CSS3 · JavaScript · React.js · React Router |
-| **Backend** | Python · Django · Django REST Framework |
-| **Database & APIs** | SQLite · REST APIs · JWT |
-| **Tools** | Git · GitHub · VS Code · Postman |
+## 🌌 ✨ ABOUT ME ✨ 🌌
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Animated space-themed decoration"/>
+
+### 💜 Hello, Universe! I'm Sahithi 💜
 
 </div>
 
-## 📊 GitHub Statistics
+- 🚀 Aspiring **Full Stack Developer** passionate about building interactive web applications.
+- 🌐 Exploring the universe of **HTML, CSS, JavaScript, and React.js**.
+- 🪐 Developing backend applications using **Python, Django, and Django REST Framework**.
+- 🛰️ Working with **SQLite, REST APIs, and JWT authentication**.
+- ✨ Love transforming creative ideas into useful digital experiences.
+- 📚 Always learning, improving, and exploring new technologies.
+- 🎨 Beyond coding: drawing, travelling, and discovering new places.
 
 <div align="center">
 
-<a href="https://github.com/sahithi0411">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahithi0411&show_icons=true&hide_border=true&bg_color=080D1B&title_color=A5B4FC&icon_color=818CF8&text_color=DCE4FF&rank_icon=github" alt="Sahithi's GitHub statistics"/>
-</a>
-<a href="https://github.com/sahithi0411">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithi0411&layout=compact&hide_border=true&bg_color=080D1B&title_color=A5B4FC&text_color=DCE4FF&langs_count=6" alt="Most used programming languages"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7B2FF7,100:FF4FD8&height=3&section=header"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahithi0411&hide_border=true&background=080D1B&ring=818CF8&fire=67E8F9&currStreakLabel=A5B4FC&sideLabels=DCE4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8995B4" alt="GitHub contribution streak"/>
+<!-- SKILLS -->
+<div align="center">
+
+## 💫 MY TECH GALAXY 💫
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=17&duration=2200&pause=500&color=FF4FD8&center=true&vCenter=true&width=500&lines=Frontend+Universe+%F0%9F%8C%90;Backend+Planet+%F0%9F%AA%90;Database+Nebula+%F0%9F%8C%A0;Always+Exploring+%F0%9F%9A%80" alt="Animated skills introduction"/>
+
+### 🌈 Frontend Constellation
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML CSS JavaScript React icons"/>
+
+### 🔮 Backend & Database Nebula
+
+<img src="https://skillicons.dev/icons?i=python,django,sqlite&theme=dark" alt="Python Django SQLite icons"/>
+
+### 🛠️ Developer Space Station
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman icons"/>
 
 </div>
 
 ---
 
-## 🌌 Beyond the Code
+<!-- PROJECTS -->
+<div align="center">
 
-- 🎨 I enjoy drawing and exploring creative ideas.
-- 🌍 I love travelling with family and friends.
-- 📚 I believe consistent learning and practice create lasting progress.
+## 🚀 PROJECTS FROM MY GALAXY
 
-## 🤝 Let's Connect
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2500&pause=500&color=00E5FF&center=true&vCenter=true&width=500&lines=Ideas+Become+Projects;Projects+Become+Experience;Experience+Creates+Possibilities" alt="Animated projects heading"/>
+
+</div>
+
+### 🪐 01 — Travel-Trip | Full Stack Application
+
+> A travel planning application for exploring destinations and managing trips.
+
+- **Tech:** React.js, Python, Django REST Framework, SQLite, JWT
+- **Features:** Authentication, destinations, trip management, itinerary planning, and protected API endpoints.
 
 <div align="center">
 
-**Have an opportunity, collaboration, or interesting idea? Let's talk!**
-
-<a href="https://github.com/sahithi0411"><img src="https://img.shields.io/badge/Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code"/></a>
-<a href="https://www.linkedin.com/in/sahithi-jonnadula-33114a293/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:sahithijonnadula21@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sahithi"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:172554,100:050816&height=120&section=footer" width="100%" alt="Galaxy footer"/>
-
-<sub>✨ Curious mind. Continuous learning. Meaningful code. ✨</sub>
+<a href="https://github.com/sahithi0411/Travel-Trip-Full-Stack"><img src="https://img.shields.io/badge/🌌_Explore_Repository-7B2FF7?style=for-the-badge"/></a>
 
 </div>
+
+### 💎 02 — Watch Store | E-commerce Website
+
+> A React-based watch store with product browsing and navigation.
+
+- **Tech:** React.js, React Router, Local Storage
+- **Features:** Login page, product browsing, and client-side navigation.
+
+<div align="center">
+
+<a href="https://watch-store-project-brown.vercel.app/login"><img src="https://img.shields.io/badge/🚀_Live_Demo-00BFA6?style=for-the-badge"/></a>
+<a href="https://github.com/sahithi0411/watch-store-project"><img src="https://img.shields.io/badge/💻_Source_Code-8A2BE2?style=for-the-badge"/></a>
+
+</div>
+
+### 🏎️ 03 — BMW Car Showcase
+
+> A responsive car showcase website featuring BMW models.
+
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Car cards, model search and filtering, details pages, and login/logout navigation.
+
+<div align="center">
+
+<a href="https://bmw-project-ppik.vercel.app/"><img src="https://img.shields.io/badge/🏁_Live_Demo-00BFFF?style=for-the-badge"/></a>
+<a href="https://github.com/sahithi0411/bmw-project"><img src="https://img.shields.io/badge/💻_Source_Code-FF4FD8?style=for-the-badge"/></a>
+
+</div>
+
+---
+
+<!-- GITHUB UNIVERSE -->
+<div align="center">
+
+## 🌠 MY GITHUB UNIVERSE
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=17&duration=2300&pause=600&color=BD93F9&center=true&vCenter=true&width=500&lines=Every+Commit+Is+A+New+Star;Every+Project+Is+A+New+Galaxy;Keep+Building+Keep+Growing" alt="Animated GitHub heading"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahithi0411&show_icons=true&theme=tok
